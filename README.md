@@ -1,8 +1,10 @@
 # 🧑‍🍳 AI Recipe Generator
 
-A modern Next.js web application that uses AI to analyze food images and generate detailed recipes. Upload a photo of any dish and get a complete recipe with ingredients, instructions, and cooking details!
+https://github.com/user-attachments/assets/1e4598ca-3a1b-4fff-b80c-ee5ea793926c
 
 This app was built in one prompt with cursor.
+
+A modern Next.js web application that uses AI to analyze food images and generate detailed recipes. Upload a photo of any dish and get a complete recipe with ingredients, instructions, and cooking details!
 
 ![AI Recipe Generator](https://img.shields.io/badge/Next.js-14-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
